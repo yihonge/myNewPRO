@@ -64,8 +64,7 @@ namespace myNewPRO
             webGo(toolStripTextBox1.Text);
             if (webView21 != null && webView21.CoreWebView2 != null)
             {
-                //string text = System.IO.File.ReadAllText(@"C:/Users/xxx/Desktop/VisualSelf/self.html");
-                //webView21.CoreWebView2.NavigateToString(text);
+                
             }
         }
 
